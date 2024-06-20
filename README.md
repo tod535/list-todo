@@ -1,1 +1,1 @@
-# search-for-bot-users
+открыть папку и запустить index.html 
